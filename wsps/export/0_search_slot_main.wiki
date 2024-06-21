@@ -1,5 +1,5 @@
 __NOTOC__{{#ifsysop: {{CSP alert}} }}{{#WikiSearchConfig:
-|base query=[[Class::!Wiki]] [[Class::!Application page]]
+|base query=[[Class::!Wiki]] [[Class::!Application page]] [[Class::!Class definition]]
 |post filter properties=Class, Tags
 |search term properties=Title,Parsed text
 |aggregation size=50
